@@ -1,4 +1,4 @@
-# Data-Science
+# Deep Learning Study
 
 ## Anaconda distribution
 > Anaconda distribution is a free and open-source python distribution that includes many tools, including an environment manager, a download manager, and a graphical interface to access a variety of development evironments.
